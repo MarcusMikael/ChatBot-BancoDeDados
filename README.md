@@ -75,5 +75,5 @@ O fluxo será carregado com:
 
 👤 Autores
 
-Marcus Mikael Rodrigues Vieira
-João Pedro Lima Barbosa
+Marcus Mikael Rodrigues Vieira.
+João Pedro Lima Barbosa.
