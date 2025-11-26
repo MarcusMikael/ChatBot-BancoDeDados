@@ -32,15 +32,25 @@ Esse processo permite que o chatbot encontre respostas mesmo que as palavras exa
 ## Estrutura do Repositório
 
 /
+
 ├── workflow/ # Workflow exportado do n8n
+
 │ └── ChatBot - Banco De Dados.json
+
 │
+
 ├── src/ # Códigos da criação do  banco
+
 │ └── Scripts SQL
+
 │
+
 ├── docs/ # Relatório técnico
+
 │ └── Relatório ChatBot.pdf
+
 │
+
 └── README.md # Este arquivo
 
 ---
